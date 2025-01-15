@@ -1,0 +1,1 @@
+## **[PDF: Data Mining Methods for Describing Federal Government Career Trajectories and Predicting Employee Separation](https://kimberlyhwaldron.github.io/HealyKimberly-et-al_FedHR_Classification-Mining/)**
